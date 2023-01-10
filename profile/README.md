@@ -11,3 +11,6 @@ As a product, AspectOS is a Linux distro based on Arch that prioritizes security
 
 ## How
 It's all done right here on the AspectLinux GitHub org.
+
+## Joining
+Go to the org's Discussions page and apply there!
