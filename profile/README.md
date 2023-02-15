@@ -2,15 +2,13 @@
 Hello, we are AspectOS!
 
 ## Who
-As a community and collaboration, AspectOS is a great way to create a good thing.
+We are group of coders and designers who are here to create the next big thing.
 
-Check out our members for the members list.
-
-## What
-As a product, AspectOS is a Linux distro based on Arch that prioritizes innovations in security and ease of use, with our users in mind.
-
+## What.
+ AspectOS is a ArchLinux distro which is open-source.
+ 
 ## How
-It's all done right here on the AspectLinux GitHub org.
+We have a forum on Scratch, a kiddie coding website. View the forum at https://scratch.mit.edu/discuss/topic/657097
 
 ## Joining
-Go to the org's Discussions page and apply there!
+You can apply on the forum or in the discussions on Github
